@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cornellBox-2.80-Eevee-gltf.obj-8153394ef33c599e9d3b04e2e22f7492.mesh"
+
+[deps]
+
+files=[ "res://.import/cornellBox-2.80-Eevee-gltf.obj-8153394ef33c599e9d3b04e2e22f7492.mesh" ]
+
+source_file="res://cornellBox-2.80-Eevee-gltf.obj"
+dest_files=[ "res://.import/cornellBox-2.80-Eevee-gltf.obj-8153394ef33c599e9d3b04e2e22f7492.mesh", "res://.import/cornellBox-2.80-Eevee-gltf.obj-8153394ef33c599e9d3b04e2e22f7492.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
